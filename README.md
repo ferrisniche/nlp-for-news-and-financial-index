@@ -12,6 +12,6 @@ data + LDA code → exdata
 exdata + index + tentative exploration.py → tentative exploration.pdf                   
 exdata + index + LDA调试确定.py → final.pdf   
 # result        
-If you want to have a quick look, please refer to final.ptf
+If you want to have a quick look, please refer to final.pdf
 
 
